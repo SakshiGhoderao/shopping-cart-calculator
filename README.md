@@ -6,4 +6,4 @@ This project demonstrates real-world cart functionality
 - total calculation
 - DOM manipulation
 - Event handling
-- data persistence using localStorage
+- data persistence using localStorage.
